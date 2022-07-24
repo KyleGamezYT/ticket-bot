@@ -73,3 +73,5 @@ You can see the commands by using slash commands. For the slash commands, the sc
  
  
  ## Made with Faith, and intellegince.
+ 
+[![Run on Repl.it](https://repl.it/badge/github/KyleGamezYT/tickets)](https://repl.it/github/KyleGamez/tickets)
