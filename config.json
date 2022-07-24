@@ -1,15 +1,14 @@
-
-{  
-  "token": "MTAwMDUzNTIxMjgwOTI1NzA2MA.Grn1Pj.yUKQcPTwdDTru0NWRpwlVTRVestAAGR2R5NDqg",
-  "prefix": "-",
-  "activity": "your tickets | worst job ever.",
-  "type": "LISTENING",
-  "status": "dnd",
+{
+token: "Token here",
+  "prefix": "Prefix here",
+  "activity": "Status here",
+  "type": "type of status here",
+  "status": "dnd, online, idle or invisible goes here.",
   
   "COMMENT": "Only enable hostingweb if you are using replit!",
-  "hostingweb": true,
+  "hostingweb": if ur hosting on replit, use true or false
   
-  "developers": ["954734383582023811"],
+  "developers": ["ur id goes here"],
 
 
 
